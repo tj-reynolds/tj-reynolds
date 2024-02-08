@@ -1,16 +1,27 @@
-### Hi there 👋
+### TJ Reynolds
 
-<!--
-**tj-reynolds/tj-reynolds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently: :shield: Principal Security Engineer in the [University Information Security Office] at [Indiana University]
 
-Here are some ideas to get you started:
+I'm currently working with and can answer questions about:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Microsoft Defender for Endpoints
+* CrowdStrike Falcon
+* Ubuntu
+* Git/GitHub
+* Ansible
+* PowerShell
+* Python
+* Visual Studio Code
+* Windows Subsystem for Linux
+* Windows Terminal
+
+I've previously worked with:
+
+* Azure AD, Exchange Online, and AD Connect
+* Microsoft Active Directory, Exchange, and Skype for Business
+* Active Directory Certificate Services
+* PowerShell Constrained Endpoints (JEA)
+* TeamCity, Octopus Deploy, and Azure DevOps Pipelines
+
+[University Information Security Office]: https://informationsecurity.iu.edu/ "Indiana University University Information Security Office"
+[Indiana University]: https://www.iu.edu "Indiana University"
